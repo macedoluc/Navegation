@@ -1,0 +1,22 @@
+npx react-native init nome_projeto --------> criar um projeto, tem que estar dentro da pasta reactNative
+npx react-native run-android ---------------> startar o projeto, tem que estar dentro da pasta do projeto criado
+adb devices --------------------------------> lista o emulador ou o dispositivo físico que está conectado
+adb kill-server ----------------------------> derruba o emulador ou dispositivo que está conectado
+adb start-server ---------------------------> retorna com o emulador ou dispositivo 
+
+
+
+
+
+LINKS AULA
+
+https://reactnative.dev/docs/components-and-apis ---------------------> exercicios
+https://pt-br.reactjs.org/docs/composition-vs-inheritance.html -------> ler
+https://react-native.rocketseat.dev/android/windows ------------------> configuração do ambiente android studio
+
+
+
+CONTEÚDO
+
+exercicio01 ------> basic components, sectionList, listView 
+projeto02 --------> props e states
